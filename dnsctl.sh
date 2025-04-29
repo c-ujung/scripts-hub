@@ -3,7 +3,7 @@
 # ======================
 # 配置区（按需修改）
 # ======================
-REPO_URL="https://raw.githubusercontent.com/yourname/dns-manager/main"  # ← 修改为实际仓库地址
+REPO_URL="https://raw.githubusercontent.com/c-ujung/scripts-hub/main/dnsctl.sh"  # ← 修改为实际仓库地址
 INSTALL_PATH="/usr/local/bin/dnsctl"
 CONF_HEAD="/etc/resolvconf/resolv.conf.d/head"
 BACKUP_FILE="/etc/resolvconf/resolv.conf.d/head.bak"
